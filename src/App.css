@@ -1,0 +1,16 @@
+body {
+  background-color: #fffaf5;
+  color: #2c211b;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
